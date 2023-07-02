@@ -74,7 +74,7 @@ class ProfileScreen extends StatelessWidget {
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.all(15),
                   ),
-                  child: const Text('Edit Profile')
+                  child: const Text('Log out')
               ),
             )
           ],
